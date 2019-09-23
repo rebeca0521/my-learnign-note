@@ -7,4 +7,4 @@
 * YO
 * YOYO
 
-![]my-learnign-note/Photos/3060000005443Abs3.jpg
+![my-learnign-note/Photos/3060000005443Abs3.jpg]
