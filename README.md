@@ -2,10 +2,12 @@
 
 我的資料結構與演算法自學筆記!
 
-## About me
+# About me
 
 * YO
 * YOYO
+
+## School 
 
 ![](my-learnign-note/Photos/3060000005443Abs3.jpg)
 
