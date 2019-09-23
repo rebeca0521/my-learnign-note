@@ -4,5 +4,5 @@
 
 ## About me
 
-*YO
-*YOYO
+* YO
+* YOYO
