@@ -82,44 +82,4 @@ class MyLinkedList(object):
         return None
 
 
-# In[ ]:
-
-
-# Your MyLinkedList object will be instantiated and called as such:
-obj = MyLinkedList()
-
-obj.addAtHead(1)
-obj.addAtTail(5)
-param_1 = obj.get(1)
-obj.addAtIndex(1,6)
-obj.deleteAtIndex(1)
-
-
-# In[197]:
-
-
-# Your MyLinkedList object will be instantiated and called as such:
-# obj = MyLinkedList()
-# param_1 = obj.get(index)
-# obj.addAtHead(val)
-# obj.addAtTail(val)
-# obj.addAtIndex(index,val)
-# obj.deleteAtIndex(index)
-
-
-# In[ ]:
-
-
-def deleteAtIndex(self, index) :
-    if index<0:
-            return None
-        cc = 0
-        cur_node = self.head
-        n_node = cur_node.next 
-        while cur_node != None:
-            if index == cc:
-                n_node = cur_node
-            cc += 1 
-            cur_node = n_node
-        return None
 
