@@ -5,6 +5,7 @@
 
 ## 學習記錄
 1.[Linked list](https://github.com/rebeca0521/my-learning-note/tree/master/leetcode/Linked%20list)
+2.[Stack and Queue](https://github.com/rebeca0521/my-learning-note/tree/master/leetcode/Stack%20and%20Queue)
 
 
 
