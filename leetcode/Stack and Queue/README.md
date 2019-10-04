@@ -1,7 +1,7 @@
 # Minstack finished
-    狀況
-    1. : 改變min問題 
-    2. : "object is not callable" 
+    狀況:
+    1. 改變min問題 
+    2. "object is not callable" 
     (已解決打在code內)
 # Reference
 ### 1.Stack and Queue
