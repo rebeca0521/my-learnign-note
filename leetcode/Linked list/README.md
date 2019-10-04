@@ -1,6 +1,6 @@
 ## Linked list
     狀況:
-    1. Time limited exceed
+    1. Time Limit Exceeded
 
 ## Reference
 ### 1. Class
