@@ -1,3 +1,7 @@
+## Linked list
+    狀況:
+    1. Time limited exceed
+
 ## Reference
 ### 1. Class
   * Videos
