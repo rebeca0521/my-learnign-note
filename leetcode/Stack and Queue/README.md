@@ -1,6 +1,8 @@
 # Minstack finished
-    Q1 : 改變min問題 (已解決打在code內)
-    Q2 : "object is not callable" (已解決打在codes內)
+    狀況
+    1. : 改變min問題 
+    2. : "object is not callable" 
+    (已解決打在code內)
 # Reference
 ### 1.Stack and Queue
    * Articles
