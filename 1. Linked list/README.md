@@ -1,7 +1,7 @@
 
 ## Linked list
     狀況:
-    1. 
+    1.  finished
 
 ## Reference
 ### 1. Class
