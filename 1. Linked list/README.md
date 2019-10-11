@@ -1,7 +1,7 @@
 
 ## Linked list
     狀況:
-    1. Time Limit Exceeded
+    1. 
 
 ## Reference
 ### 1. Class
