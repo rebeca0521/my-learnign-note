@@ -3,6 +3,10 @@
     1. 改變min問題 
     2. "object is not callable" 
     (已解決打在code內)
+    
+# Implement Queue using Stacks fnished
+![ya](https://github.com/rebeca0521/my-learning-note/blob/master/2.%20Stack%20%26%20Queue/queue.png)
+
 # Reference
 ### 1.Stack and Queue
    * Articles
