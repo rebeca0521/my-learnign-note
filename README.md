@@ -10,6 +10,7 @@
 * [Stack & Queue](https://github.com/rebeca0521/my-learning-note/tree/master/2.%20Stack%20%26%20Queue)
 
 ## Week3
+* 完成LeetCode 147. Insertion Sort List
 * [Insertion sort](https://github.com/rebeca0521/my-learning-note/tree/master/3.%20Insertion%20sort)
 
 
