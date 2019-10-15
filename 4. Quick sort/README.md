@@ -3,3 +3,9 @@
  
 ### 流程圖 
  ![](https://github.com/rebeca0521/my-learning-note/blob/master/4.%20Quick%20sort/S__3702915.jpg)
+ 
+ 
+ ###### tags: `資料結構` `Quick sort`
+# Quick sort
+## 
+![](https://i.imgur.com/62ZClif.jpg)
