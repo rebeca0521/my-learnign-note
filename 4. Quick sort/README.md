@@ -66,8 +66,11 @@ O(n*log n)
 
 
 
+## Code參考
+> https://zh.wikipedia.org/wiki/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F
 
 ## Reference
+
 > http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html
 > https://blog.kuoe0.tw/posts/2013/03/15/sort-about-quick-sort/
 
