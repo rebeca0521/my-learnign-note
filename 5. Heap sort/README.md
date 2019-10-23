@@ -16,7 +16,7 @@
 
 ## 排序過程
 ![](https://i.imgur.com/8Xa89X8.png)
-影片
+* 影片
 > https://www.youtube.com/watch?v=MtQL_ll5KhQ&t=1s
 > 
 
