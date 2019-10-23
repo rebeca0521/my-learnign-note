@@ -3,9 +3,9 @@
 ## Heap
 * 堆積(Heap)是一種樹狀資料結構
 * min heap : 為母節點恆小於等於子節點
-![](https://i.imgur.com/mirqAul.png)
+> ![](https://i.imgur.com/mirqAul.png)
 * max heap : 為母節點恆大於等於子節點
-![](https://i.imgur.com/jViY84X.png)
+> ![](https://i.imgur.com/jViY84X.png)
 * root node : 最頂端的節點
 * parent node : 根節點沒有母節點
 
