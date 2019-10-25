@@ -15,7 +15,7 @@ in-place版本和一般的quick sort不太一樣得地方是，一般的quick so
 
 ## code
 
-
+! [按J個才跑得出來](https://nbviewer.jupyter.org/github/rebeca0521/my-learning-note/blob/master/4.%20Quick%20sort%20%28in-place%29/Quick%20sort%20in-place.ipynbhttps://nbviewer.jupyter.org/github/rebeca0521/my-learning-note/blob/master/4.%20Quick%20sort%20%28in-place%29/Quick%20sort%20in-place.ipynb)
 
 ## Reference
 > https://www.youtube.com/watch?v=MZaf_9IZCrc
