@@ -18,6 +18,7 @@
 * [Quick sort](https://github.com/rebeca0521/my-learning-note/tree/master/4.%20Quick%20sort)
 
 ## Week5
+* 完成作業Heap sort
 * [Heap sort](https://github.com/rebeca0521/my-learning-note/tree/master/5.%20Heap%20sort)
 
 ## 好文共賞
