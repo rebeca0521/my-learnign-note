@@ -9,7 +9,7 @@
 * **L_plus_num** : 為每一次L+1時，紀錄+的次數
 
 
-![](https://i.imgur.com/cMk3qGs.png)
+![](https://i.imgur.com/5OSWYDw.png)
 
 ## 學習歷程
 ### 碰到的問題
