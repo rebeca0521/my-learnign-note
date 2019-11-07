@@ -58,7 +58,7 @@ The merge sort is slightly faster than the heap sort for larger sets, but it req
 
 
 ## Reference
->http://www-cs-students.stanford.edu/~rashmi/projects/Sorting.pdf
->http://spaces.isu.edu.tw/upload/18833/3/web/sorting.htm
->https://emn178.pixnet.net/blog/post/93671868
->https://jason-chen-1992.weebly.com/home/selection-merge-heap
+> http://www-cs-students.stanford.edu/~rashmi/projects/Sorting.pdf
+> http://spaces.isu.edu.tw/upload/18833/3/web/sorting.htm
+> https://emn178.pixnet.net/blog/post/93671868
+> https://jason-chen-1992.weebly.com/home/selection-merge-heap
