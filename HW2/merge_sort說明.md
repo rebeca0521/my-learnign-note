@@ -20,4 +20,4 @@
 收穫是，我覺得邊畫流程圖邊想，真的比一開始就打code有效率很多，雖然我也想了很久，但是如果一開始打code可能邏輯上就會更亂(之前就是這樣)，邊畫邊想真的幫助我很多。
 ## Reference
 > 1. 賴永琪(06170108)提點
-2. https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p
+> 2. https://docs.google.com/presentation/d/e/2PACX-1vToxkEzc1H1RT5MI9G941KQFBC7GO_Efn95wTqXLEdr3LDBSNcQb-M46IOC-_RzZih6IBEwwy3rWQuE/pub?start=false&loop=false&delayms=3000&slide=id.p
