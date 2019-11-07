@@ -7,6 +7,8 @@
 * **newarr** : 為每次排序完所放入的新array
 * **R_plus_num** : 為每一次R+1時，紀錄+的次數
 * **L_plus_num** : 為每一次L+1時，紀錄+的次數
+
+
 ![](https://i.imgur.com/cMk3qGs.png)
 
 ## 學習歷程
