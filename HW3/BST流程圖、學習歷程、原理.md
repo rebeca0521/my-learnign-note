@@ -1,8 +1,8 @@
 # BST說明
-## 原理
+## 原理&流程圖
 ![](https://i.imgur.com/sbjLYJw.jpg)
 
-## 流程圖&學習歷程
+## 學習歷程
 
 首先我先寫了insert和search因為感覺比較好寫
 ### Insert & Solution
