@@ -31,10 +31,10 @@
 ## Week8
 * [Binary Search Tree (HW3)](https://github.com/rebeca0521/my-learning-note/tree/master/HW3)
 
-## Week 9 
+## Week9 
 * [Red Black Tree]()
 
-## Week 10
+## Week10
 * [Hash table (HW4)](https://github.com/rebeca0521/my-learning-note/tree/master/HW4)
 
 ## 好文共賞
