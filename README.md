@@ -29,12 +29,14 @@
 * [Binary tree]()
 
 ## Week8
+* 完成作業Binary Search Tree
 * [Binary Search Tree (HW3)](https://github.com/rebeca0521/my-learning-note/tree/master/HW3)
 
 ## Week9 
 * [Red Black Tree]()
 
 ## Week10
+* 完成作業Hash table
 * [Hash table (HW4)](https://github.com/rebeca0521/my-learning-note/tree/master/HW4)
 
 ## 好文共賞
