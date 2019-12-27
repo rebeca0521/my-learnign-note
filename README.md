@@ -2,16 +2,16 @@
 
 ## Week1
 * 完成LeetCode 707. Design Linked List
-* [Linked list](https://github.com/rebeca0521/my-learning-note/tree/master/1.%20Linked%20list)
+* [Linked list(LeetCode)](https://github.com/rebeca0521/my-learning-note/tree/master/1.%20Linked%20list)
 
 ## Week2
 * 完成LeetCode 155. Min Stack
 * 完成LeetCode 232. Implement Queue using Stacks
-* [Stack & Queue](https://github.com/rebeca0521/my-learning-note/tree/master/2.%20Stack%20%26%20Queue)
+* [Stack & Queue(LeetCode)](https://github.com/rebeca0521/my-learning-note/tree/master/2.%20Stack%20%26%20Queue)
 
 ## Week3
 * 完成LeetCode 147. Insertion Sort List
-* [Insertion sort](https://github.com/rebeca0521/my-learning-note/tree/master/3.%20Insertion%20sort)
+* [Insertion sort(LeetCode)](https://github.com/rebeca0521/my-learning-note/tree/master/3.%20Insertion%20sort)
 
 ## Week4
 * 完成作業Quick sort
@@ -44,6 +44,8 @@
 * [DFS、BFS(HW5)](https://github.com/rebeca0521/my-learning-note/tree/master/HW5)
 
 ## Week12
+* 完成LeetCode 912. Sort an Array
+* [Sort an Array(leetCode)](https://github.com/rebeca0521/my-learning-note/tree/master/6.%20Sort%20an%20Array(leetCode))
 * [Minimum Spanning Tree]()
 
 ## Week13
